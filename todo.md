@@ -28,3 +28,5 @@ hash:
 
 -s --site 
 crawls a site for keywords about the victim
+
+--help
